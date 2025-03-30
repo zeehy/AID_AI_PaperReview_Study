@@ -17,4 +17,4 @@
 - [오지현](https://github.com/zeehy)
 - [강민석](https://github.com/myeolinmalchi)
 - [김태환]
-- [이치오] 
+- [이치오](https://github.com/cho104)
