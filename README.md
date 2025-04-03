@@ -8,7 +8,7 @@
 | 논문명 | 발표자 | 날짜 | 
 |--------|--------|--------|
 | Attention Is All You Need | 김태환 | 25/04/06 | 
-|  | 오지현 | 25/04/06 |
+| Deep Residual Learning for Image Recognition | 오지현 | 25/04/06 |
 |  | 김민석 | 25/04/27 | 
 |  | 이치오 | 25/04/27 | 
 
