@@ -1,7 +1,7 @@
 # AID_AI_PaperReview_Study
 
 ## 규칙
-- 일요일 18시 (대면/ 비대면 돌아가면서)
+- 수요일 19시 (대면)
 - 발표 제외자는 comments 작성 
 
 ## 발표 목록
@@ -10,7 +10,7 @@
 | Attention Is All You Need | 김태환 | 25/04/06 | 
 | Deep Residual Learning for Image Recognition | 오지현 | 25/04/06 |
 |  | 김민석 | 25/04/27 | 
-|  | 이치오 | 25/04/27 | 
+| An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 이치오 | 25/04/27 | 
 
 
 ## 멤버
