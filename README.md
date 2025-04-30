@@ -22,8 +22,8 @@
 |--------|--------|--------|
 | Attention Is All You Need | [김태환](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/pdfs/Attention%20Is%20All%20You%20Need.pdf) | 25/04/06 | 
 | Deep Residual Learning for Image Recognition | [오지현](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/pdfs/ResNet.pdf) | 25/04/06 |
-|  | 김민석 | 25/04/27 | 
-| An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 이치오 | 25/04/27 | 
+|  | 강민석 | 25/04/30 | 
+| An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 이치오 | 25/04/30 | 
 
 
 ## 멤버
