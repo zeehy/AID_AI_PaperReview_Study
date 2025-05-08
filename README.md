@@ -22,8 +22,8 @@
 | [Deep Residual Learning for Image Recognition](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf) | 오지현 | 04/06/25 |
 | []() | 강민석 | 04/30/25 | 
 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/VIT.pdf) | 이치오 | 04/30/25 |
-| []() | 김태환 | 05/07/25 | 
-| []() | 오지현 | 05/07/25 |
+| []() | 김태환 | 05/11/25 | 
+| []() | 오지현 | 05/11/25 |
 
 
 ## Members
