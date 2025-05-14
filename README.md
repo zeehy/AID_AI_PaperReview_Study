@@ -26,6 +26,8 @@
 | Your Vision-Language Model Only Needs Few Attention Heads For Visual Grounding | 오지현 | 05/11/25 |
 | TBC | 강민석 | 05/14/25 | 
 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf) | 이치오 | 05/14/25 |
+| TBC | 김태환 | 05/20/25 | 
+| TBC | 오지현 | 05/20/25 |
 
 
 ## Members
