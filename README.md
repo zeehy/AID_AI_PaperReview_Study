@@ -23,7 +23,7 @@
 | TBC | 강민석 | 04/30/25 | 
 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/VIT.pdf) | 이치오 | 04/30/25 |
 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) | 김태환 | 05/11/25 | 
-| Your Vision-Language Model Only Needs Few Attention Heads For Visual Grounding | 오지현 | 05/11/25 |
+| [Your Vision-Language Model Only Needs Few Attention Heads For Visual Grounding](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Your%20Large%20Vision-Language%20Model%20Only%20Needs%20A%20Few%20Attention%20Heads%20For%20Visual%20Grounding_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 오지현 | 05/11/25 |
 | TBC | 강민석 | 05/14/25 | 
 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf) | 이치오 | 05/14/25 |
 | TBC | 김태환 | 05/20/25 | 
