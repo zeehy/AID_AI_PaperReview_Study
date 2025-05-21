@@ -14,7 +14,6 @@
 - 💬 **[코멘트](https://github.com/zeehy/AID_AI_PaperReview_Study/tree/main/comments)**  
   발표에 대한 피드백 및 리뷰는 `comments` 디렉토리에서 확인 가능합니다.
 
-
 ## Presentations
 | 논문명 | 발표자 | 날짜 | 
 |--------|--------|--------|
@@ -26,9 +25,14 @@
 | [Your Vision-Language Model Only Needs Few Attention Heads For Visual Grounding](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Your%20Large%20Vision-Language%20Model%20Only%20Needs%20A%20Few%20Attention%20Heads%20For%20Visual%20Grounding_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 오지현 | 05/11/25 |
 | [ReAct - Synergizing Reasoning and Acting in Language Models](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/ReAct%20Synergizing%20Reasoning%20and%20Acting%20in%20Language%20Models.pdf) | 강민석 | 05/14/25 | 
 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf) | 이치오 | 05/14/25 |
-| TBC | 김태환 | 05/20/25 | 
-| TBC | 오지현 | 05/20/25 |
-
+| Efficient Estimation of Word Representations in Vector Space | 김태환 | 05/20/25 | 
+| [MVSFormer++ Revealing the Devil in Transformer's Details for Multi-View Stereo](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/MVSFormer%2B%2B_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 오지현 | 05/20/25 |
+| TBD | 강민석 | 05/28/25 | 
+| TBD | 이치오 | 05/28/25 |
+| TBD | 김태환 | 06/04/25 | 
+| TBD | 오지현 | 06/04/25 |
+| TBD | 강민석 | 06/04/25 | 
+| TBD | 이치오 | 06/04/25 |
 
 ## Members
 - [오지현](https://github.com/zeehy)
