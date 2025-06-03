@@ -27,12 +27,10 @@
 | [Masked Autoencoders Are Scalable Vision Learners](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf) | 이치오 | 05/14/25 |
 | Efficient Estimation of Word Representations in Vector Space | 김태환 | 05/20/25 | 
 | [MVSFormer++ Revealing the Devil in Transformer's Details for Multi-View Stereo](https://github.com/zeehy/AID_AI_PaperReview_Study/blob/main/docs/MVSFormer%2B%2B_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) | 오지현 | 05/20/25 |
-| TBD | 강민석 | 05/28/25 | 
-| TBD | 이치오 | 05/28/25 |
 | TBD | 김태환 | 06/04/25 | 
 | TBD | 오지현 | 06/04/25 |
 | TBD | 강민석 | 06/04/25 | 
-| TBD | 이치오 | 06/04/25 |
+| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 이치오 | 06/04/25 |
 
 ## Members
 - [오지현](https://github.com/zeehy)
