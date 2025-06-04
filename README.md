@@ -30,7 +30,7 @@
 | TBD | 김태환 | TBD | 
 | TBD | 오지현 | TBD |
 | TBD | 강민석 | TBD | 
-| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 이치오 | TBD |
+| 3D Gaussian Splatting for Real-Time Radiance Field Rendering & SPLATFORMER | 이치오 | TBD |
 
 ## Members
 - [오지현](https://github.com/zeehy)
